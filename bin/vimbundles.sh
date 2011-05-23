@@ -44,5 +44,13 @@ get_bundle vim-scripts bufkill.vim
 get_bundle jgdavey vim-blockle
 get_bundle jgdavey vim-railscasts
 get_bundle gregsexton gitv
+get_bundle vim-scripts L9
+get_bundle vim-scripts FuzzyFinder
+get_bundle vim-scripts Limp
+get_bundle scrooloose nerdtree
+get_bundle jpo vim-railscasts-theme
+get_bundle taq vim-rspec
+get_bundle vim-scripts IndentAnything
+get_bundle pjfitzgibbons vim-rubybeautifier
 
 vim -c 'call pathogen#helptags()|q'
