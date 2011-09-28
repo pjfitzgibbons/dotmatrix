@@ -52,4 +52,5 @@ get_bundle taq vim-rspec
 get_bundle vim-scripts IndentAnything
 get_bundle pjfitzgibbons vim-rubybeautifier
 
+get_bundle vim-scripts AutoTag
 vim -c 'call pathogen#helptags()|q'
